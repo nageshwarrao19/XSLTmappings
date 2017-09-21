@@ -1,1 +1,1 @@
-# XSLTmappings
+# XSLT mappings
