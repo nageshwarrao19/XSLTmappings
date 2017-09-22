@@ -1,10 +1,10 @@
-ï»¿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
     xmlns:ns1="urn:orica-com:po:FIN:CONCUR" xmlns:ns0="http://sap.com/xi/XI/SplitAndMerge"
     xmlns:ValueMap="com.sap.aii.mapping.value.api.XIVMService">
     <xsl:strip-space elements="*"/>
     <xsl:output method="xml" indent="yes"/>
-    <!-- XSLT Mapping to ignore all the unwanted Fields from Source file. Source file contains more thn 400 fields
+    <!-- XSLT Mapping to ignore all the unwanted Fields from Source file. Source file contains more thn 400 fields Revathi
     Also Filters are applied based on Payment Conditions    
     -->
 
@@ -50,8 +50,8 @@
         </xsl:variable>
         
         <!-- Ignoring all the line items where Report ID is null i.e Cash Advance Transaction type = '1'
-			or the Payment Type is among â€˜VATVAT or CAGST or PSTSK or PSTMB or PSTBC or HSTNB or CAQST or HSTNS or HSTNL or HSTON or HSTPE or RTCON or RTCPEâ€™
-			or the Payment is via â€˜COMPANY CREDIT CARD or COMPANY PCARDâ€™	
+			or the Payment Type is among ‘VATVAT or CAGST or PSTSK or PSTMB or PSTBC or HSTNB or CAQST or HSTNS or HSTNL or HSTON or HSTPE or RTCON or RTCPE’
+			or the Payment is via ‘COMPANY CREDIT CARD or COMPANY PCARD’	
 			or the Org Unit provided by Concur is to be excluded ( i.e to be included)  - This is maintained by Value Mapping Table in ID
 		-->
 
