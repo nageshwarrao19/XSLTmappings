@@ -1,0 +1,4107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CostObjectExportData>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;&quot;</ObjectCode>
+		<Level3Code>&quot;&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Orica Russia CIS - Russia&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>CC</ObjectCode>
+		<Level3Code>&quot;&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>Cost Centre</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>IO</ObjectCode>
+		<Level3Code>&quot;&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>Internal Order</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>WBS</ObjectCode>
+		<Level3Code>&quot;&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>Work Breakdown Structure</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000086&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MCU 4Т АКВ-015(UG586)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000087&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;авто Toyota Hilux AHTFZ29G209111112&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000088&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;танк-контейнер 24000л&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000089&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;танк-контейнер 24000л (2)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000090&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU1 3т AKB-029 (UG3013)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000091&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU2 3т AKB-030 (UG3014) без емк.&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000092&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU AKB-031 (UG3015) без емк.&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000093&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Рабочая станция Dell Precision T5610 E5-&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000094&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Рабочая станция Dell Precision T5610 E5-&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000095&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Тайота HILUX VIN AHTFZ29G609112845&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000096&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Тайота HILUX VIN MROFR29G401032618&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000097&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Тайота HILUX VIN AHTFR29G907041250&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000100&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;загрязняющих веществ в атмосферный возду&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000115&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Смесительно-зарядная установка  MCU-1 3T&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000200&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Весы лабораторные&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091000201&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091300100&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Доставщик на шасси  VOLVO&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091300101&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;ЛАРИ СТАНЦИЯ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700001&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;MCU UG585&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700002&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Слари Станция&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700003&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Доставщик на шасси  VOLVO&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700004&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;модернизация ограждения завода&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700005&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MCU-4ТАКВ-015(UG586)на шасси Charmec&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700006&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700007&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;НАСОС FLUX&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700008&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;НАСОС ВИЛДЕН  10-АКВ-51&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700009&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;ЭЛЕКТРОПАРОГЕНЕРАТОРНАЯ УСТАНОВКА ГЕЙЗЕР&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700010&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Доставщик на шасси  VOLVO&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700011&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700012&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ для зарядки ЭВВ в подземных условиях&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700013&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;расширение завода&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700014&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ для зарядки ЭВВ в подземных условиях&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700015&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование Модуля ELK&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700016&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Дизель Электростанция&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700017&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MMU 20-1&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700018&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MMU 20-1&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700019&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ  MСU UG588&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700020&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ для зарядки ЭВВ в подземных условиях&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700021&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ для зарядки ЭВВ в подземных условиях&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700022&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ для зарядки ЭВВ в подземных условиях&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700023&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ для зарядки ЭВВ в подземных условиях&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700024&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СМЕСИТЕЛЬНО-ЗАРЯДНАЯ УСТАНОВКА MCU(борт&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700025&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;строительство завода г.Кировск&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700026&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Design  Civil/ Approvals/ Rental&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700027&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Engineering (Europe)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700028&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Travelling&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700029&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Contractors&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700030&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Engineering (CIS)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700031&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;строительство гаража стоянка&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700033&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Internal Order for Noise Plant&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700034&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;CЗУ  MCU UG3008 2 3t&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700035&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Engineering&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700036&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Civil and building works&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700037&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Mechanical equipment&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700038&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Mobile equipment&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700039&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Other&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700040&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot; Toyota Hilux&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700041&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование СЗМ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700042&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование СЗМ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700043&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование СЗМ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700044&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование СЗМ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700045&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование СЗМ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700046&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Сервер DELL PowerEdge R720&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700047&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Сервер DELL PowerEdge T620&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700048&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;FLUX&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700049&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700051&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Civil and building&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700052&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Services&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700053&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Equipment&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700054&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Mobile equipment&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700055&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Design and Project Manager&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700056&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Mobile PM (Douglas &amp; Tim Brown)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700057&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Construction Support&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700058&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Design Institute&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700059&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Shipment&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700060&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Consultants&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700061&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Permissions&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700063&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Other&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700064&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Allowance&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700065&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU UG3011 AKB-27&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700066&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MCU UG3006 AKB-21&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700067&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MCU-4T  АКВ-016 (UG 587)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700068&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;NAPCO Центральный рудник ОАО&quot;АПАТИТ&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700069&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MCU UG3012 AKB-28&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700070&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MCU UG3010 AKB-26&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700071&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗМ MCU UG3009 AKB-25&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700072&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Дооборудование автомобиль Toyota Hilux&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700073&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;NAPCO Восточный рудник ОАО&quot;АПАТИТ&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700074&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;автомобильToyota Hilux AHTFZ29G009102750&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700076&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700077&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700078&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700079&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700080&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;SME MMU for Transmanut&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700081&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700082&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700083&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700084&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСТАНОВКА МОБИЛАЙ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700085&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700086&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Laptop for Sergei Mozer&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700087&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700088&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700089&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700090&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700091&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700092&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700093&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Nissan Qashqai&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700094&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Лаборатория контейнерная передвижная &quot;ЛК&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700095&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Компрессор&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700096&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Абонентская радиостанция APPLE IPHON&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700097&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Насос бочковой РР 41L-DL SS 1200 mm спри&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700098&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Стенд проверки контроллеров&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700099&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;SCANIA P6X600  YS2P6X60002028396&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700103&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;SCANIA P380 CB6X600ENZ YS2P6X60002046967&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700104&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;SCANIA P380CB6X600 ENZ YS2P6X60002046011&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700105&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;SCANIA P380 CB6X600ENZ YS2P6X60002045957&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700106&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Laptop for Портянченко&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700107&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;_Компьютер Asus C i7&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700108&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;_Компьютер Asus C i7&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700109&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Проектор МН680&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700110&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;CЗУ MCU 1 3T  AKB (UG 3016)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700111&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Система видеонаблюдения (завод Кировск)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700112&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Автомобиль спец. 577405 КАМАЗ-4311  E536&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700113&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Автомобиль спец. 669220 КАМАЗ-4311 E 535&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700114&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Автомобиль специальный КАМАЗ-65115 E534&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700115&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Автомобиль со смен.кузовами МАЗ МСК E537&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700116&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Дооборудование UG 588&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700117&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Мотопомпа&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700118&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;прибор МРЕЛ Handitrap II&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700119&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование АСУП&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700121&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;прибор Parker Serviceman Plus&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700122&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;дооборудование АСУП&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700123&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Програмное обеспечение контроллеров&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700124&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;notebook for Zevakin&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700125&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;прицеп тракторный&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700126&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;notebook for Tyukhanov A.&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700127&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;iPhone for Galushko Fedor&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700128&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;iPhone for Gretchko Tatyana&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700129&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;iPhone for Iden Paki&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700130&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU 1.3 т&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700131&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700132&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700133&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700134&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700135&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700136&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700137&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700138&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700139&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700140&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Газоанализатор переносной&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700141&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700142&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700143&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Контейнер морской&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700144&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Модернизация системы видеонаблюдения&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700145&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;CЗМ MCU-4T AKB-034&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700146&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Ноутбук Dell Latitude E6440 14.0 HD&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700147&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Сервер&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700148&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU 1.3 т UG 003R&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700149&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Бензогенератор (электростанция)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700150&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700151&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700152&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU 1.3 т UG 005R&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700153&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Ноутбук Dell Latitude E6440 14.0 HD&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700154&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Микроскоп биологический&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700155&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;система подготовки г.в. для заправки СЗМ&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700156&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Шкаф сушильный для с/о&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700157&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Шкаф сушильный для с/о&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700158&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Шкаф сушильный для с/о&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700159&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Тележка для топпинга&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700160&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Капитальные вложения в арендованное им-в&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700161&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Геодезический спутниковый приемник GRх2&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700162&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Геодезический спутниковый приемник GRх2&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700163&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU R 006 1 3 т&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700164&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Полевой контролер Archer2&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700165&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Полевой контролер Archer2&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700166&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Полевой контролер Archer2&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700167&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Вагон-бытовка (размер 2 3*2 3*2 5м)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700168&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU R 004 1 3 т&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700169&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Вагон-бытовка (размер 2 3*2 3*2 5м)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700170&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Доставщик ИПВ6832AF (Е757)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700171&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Линия ГГД&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700172&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Линия уксусной кислоты&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700173&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Кузов фургон спец. на шасси Камаз&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700174&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Вискозиметр Брукфильда RVDV-ll+PRO&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700175&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Phone for Business Coash CIS&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700262&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Станция S1900VE410&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700263&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Станция S1900VE410&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700264&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Станция S1850VE410&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700271&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;контейнер 40 футов&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700277&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Устройство подачи шланга&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700280&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Порт. компьютер (планшет)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700281&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;_PH-метр HANNA&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700282&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Смартфон Apple iPhone 7 32G&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700283&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Ультрабук Dell Latitude E7270&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700284&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;iPad 12.9&quot; 32GB Silver&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700301&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Ультрабук DellLatitude E7270 12.5&apos;&apos;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700304&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;СЗУ MCU UG009RU&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700321&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Автомобиль Cadillac K2XX Escalade&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000091700322&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;CЗУ MCU 1 3т UG010RU&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000250&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000251&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000252&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000253&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000254&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000255&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000340&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000341&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000342&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000343&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000346&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;ВОЛЬВО FMX 008 (4)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000347&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;BFNADV30  (ФОРТАН)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000380&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;САБТЭК Эмульсионная матрица&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000381&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;ФОРТИС&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000382&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;УСЛУГИ ОАО&quot;КГМК&quot; по заряжению скважин&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000383&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;ГАЗОГЕНЕРИРУЮЩАЯ ДОБАВКА (ГГД)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000400&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Сдачу в аренду ОС (ОАО&quot;Кольская ГМК)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000401&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Сдачу в аренду ОС (ОАО&quot;Апатит&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000425&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Услуги по заряжению скважин Фортис&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000681&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;ФОРТИС   ОАО&quot;АПАТИТ&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000743&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;ФОРТИС   Восточный рудник ОАО&quot;АПАТИТ&quot;&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000800&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;БВР  (ROG APATIT)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000092000801&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;БВР  (ROG APATIT)&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000093000100&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Реализация ОС&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+	<items>
+		<ListName>*Company Hierarchy</ListName>
+		<ListCategoryName>*Company Hierarchy</ListCategoryName>
+		<CompanyCode>ECRU</CompanyCode>
+		<ObjectCode>&quot;IO&quot;</ObjectCode>
+		<Level3Code>&quot;000093000101&quot;</Level3Code>
+		<Level4Code>&quot;&quot;</Level4Code>
+		<Level5Code>&quot;&quot;</Level5Code>
+		<Level6Code>&quot;&quot;</Level6Code>
+		<Level7Code>&quot;&quot;</Level7Code>
+		<Level8Code>&quot;&quot;</Level8Code>
+		<Level9Code>&quot;&quot;</Level9Code>
+		<Level10Code>&quot;&quot;</Level10Code>
+		<Name>&quot;Корректировка выпуска ГП&quot;</Name>
+		<StartDate>&quot;&quot;</StartDate>
+		<EndDate>&quot;&quot;</EndDate>
+		<DeletionIndicator>&quot;N&quot;</DeletionIndicator>
+	</items>
+</CostObjectExportData>
