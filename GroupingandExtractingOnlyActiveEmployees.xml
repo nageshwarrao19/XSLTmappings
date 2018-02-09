@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <Employee_id>46241</Employee_id>
+        <User_Id>A46241</User_Id>
+        <Email_account>A46241@ORICA.COM</Email_account>
+        <First_Name-Personal_Information>Kyle</First_Name-Personal_Information>
+        <Middle_Name-Personal_Information/>
+        <Last_Name-Personal_Information>Wood</Last_Name-Personal_Information>
+        <Active>No</Active>
+        <Gender>Male</Gender>
+        <Date_Of_Birth-Biographical_Information>19800101</Date_Of_Birth-Biographical_Information>
+        <Business_Phone_Number/>
+        <Job_id>30000319</Job_id>
+        <Employment_Type>Full Time Hourly</Employment_Type>
+        <Job_Title>OC Magazine Keeper</Job_Title>
+        <Business_Unit>North America</Business_Unit>
+        <Division>Customer - US</Division>
+        <Department>Customer - US</Department>
+        <Working_Perimeter_id>377</Working_Perimeter_id>
+        <Working_Perimeter_Description>Salcha MFG</Working_Perimeter_Description>
+        <Location_ID>9999</Location_ID>
+        <Location_Name>Not Applicable</Location_Name>
+        <Work_Country>US</Work_Country>
+        <Supervisor_Name>Jim t Dickey</Supervisor_Name>
+        <Supervisor_ID>33115</Supervisor_ID>
+        <Supervisor_Title>Area Business Manager</Supervisor_Title>
+        <DoesEmployeehaveDirectReports>No</DoesEmployeehaveDirectReports>
+        <Standard_Hours>40</Standard_Hours>
+        <Hire_Date>20180101</Hire_Date>
+        <Leaving_Date>20180128</Leaving_Date>
+        <Contract_End_Date/>
+        <Job_Classification>OC Magazine Keeper</Job_Classification>
+        <Employee_Type>Employee</Employee_Type>
+    </row>
+    <row>
+        <Employee_id>10</Employee_id>
+        <User_Id>jdoe1</User_Id>
+        <Email_account>scrambled.generic5385@orica.com</Email_account>
+        <First_Name-Personal_Information>John</First_Name-Personal_Information>
+        <Middle_Name-Personal_Information/>
+        <Last_Name-Personal_Information>Doe1</Last_Name-Personal_Information>
+        <Active>Yes</Active>
+        <Gender>Male</Gender>
+        <Date_Of_Birth-Biographical_Information>19800101</Date_Of_Birth-Biographical_Information>
+        <Business_Phone_Number/>
+        <Job_id>2001</Job_id>
+        <Employment_Type>Full Time Salaried</Employment_Type>
+        <Job_Title>Job1</Job_Title>
+        <Business_Unit>BU03</Business_Unit>
+        <Division>DIV03</Division>
+        <Department>DEP03</Department>
+        <Working_Perimeter_id>00625</Working_Perimeter_id>
+        <Working_Perimeter_Description>DRURY Bulk Plant</Working_Perimeter_Description>
+        <Location_ID>1072</Location_ID>
+        <Location_Name>WC Stockton</Location_Name>
+        <Work_Country>NZ</Work_Country>
+        <Supervisor_Name/>
+        <Supervisor_ID>NO_MANAGER</Supervisor_ID>
+        <Supervisor_Title/>
+        <DoesEmployeehaveDirectReports>Yes</DoesEmployeehaveDirectReports>
+        <Standard_Hours>40</Standard_Hours>
+        <Hire_Date>20171101</Hire_Date>
+        <Leaving_Date/>
+        <Contract_End_Date/>
+        <Job_Classification>Job1</Job_Classification>
+        <Employee_Type>Employee</Employee_Type>
+    </row>
+    <row>
+        <Employee_id>10001</Employee_id>
+        <User_Id>10001</User_Id>
+        <Email_account/>
+        <First_Name-Personal_Information>First</First_Name-Personal_Information>
+        <Middle_Name-Personal_Information/>
+        <Last_Name-Personal_Information>Contingent Worker</Last_Name-Personal_Information>
+        <Active>No</Active>
+        <Gender/>
+        <Date_Of_Birth-Biographical_Information/>
+        <Business_Phone_Number/>
+        <Job_id>30000095</Job_id>
+        <Employment_Type>Contractor</Employment_Type>
+        <Job_Title>Account Coordinator</Job_Title>
+        <Business_Unit>APA</Business_Unit>
+        <Division>APA</Division>
+        <Department>APA</Department>
+        <Working_Perimeter_id>00584</Working_Perimeter_id>
+        <Working_Perimeter_Description>1 NICHOLSON ST Office</Working_Perimeter_Description>
+        <Location_ID/>
+        <Location_Name/>
+        <Work_Country>AU</Work_Country>
+        <Supervisor_Name>Abbe Kowaltzkezzx</Supervisor_Name>
+        <Supervisor_ID>37531</Supervisor_ID>
+        <Supervisor_Title>Job6</Supervisor_Title>
+        <DoesEmployeehaveDirectReports>No</DoesEmployeehaveDirectReports>
+        <Standard_Hours>0</Standard_Hours>
+        <Hire_Date>20171204</Hire_Date>
+        <Leaving_Date>20180130</Leaving_Date>
+        <Contract_End_Date/>
+        <Job_Classification>Account Coordinator </Job_Classification>
+        <Employee_Type>Contractor</Employee_Type>
+    </row>
+    <row>
+        <Employee_id>46241</Employee_id>
+        <User_Id>10063</User_Id>
+        <Email_account>A46241@ORICA.COM</Email_account>
+        <First_Name-Personal_Information>Kyle</First_Name-Personal_Information>
+        <Middle_Name-Personal_Information/>
+        <Last_Name-Personal_Information>Wood</Last_Name-Personal_Information>
+        <Active>Yes</Active>
+        <Gender>Male</Gender>
+        <Date_Of_Birth-Biographical_Information>19800101</Date_Of_Birth-Biographical_Information>
+        <Business_Phone_Number/>
+        <Job_id>30000737</Job_id>
+        <Employment_Type>Full Time Salaried</Employment_Type>
+        <Job_Title>Accountant</Job_Title>
+        <Business_Unit>APA</Business_Unit>
+        <Division>Customer - Coal</Division>
+        <Department>Business Development and Commercial</Department>
+        <Working_Perimeter_id>573</Working_Perimeter_id>
+        <Working_Perimeter_Description>KURRI KURRI MFG</Working_Perimeter_Description>
+        <Location_ID>1043</Location_ID>
+        <Location_Name>NS KurriKurri</Location_Name>
+        <Work_Country>AU</Work_Country>
+        <Supervisor_Name>Sarah Bellzzx</Supervisor_Name>
+        <Supervisor_ID>17030</Supervisor_ID>
+        <Supervisor_Title>Senior Commercial Manager</Supervisor_Title>
+        <DoesEmployeehaveDirectReports>No</DoesEmployeehaveDirectReports>
+        <Standard_Hours>48</Standard_Hours>
+        <Hire_Date>20180130</Hire_Date>
+        <Leaving_Date/>
+        <Contract_End_Date>99991231</Contract_End_Date>
+        <Job_Classification>Accountant</Job_Classification>
+        <Employee_Type>Employee</Employee_Type>
+    </row>
+    <row>
+        <Employee_id>44</Employee_id>
+        <User_Id>A44</User_Id>
+        <Email_account>A46241@ORICA.COM</Email_account>
+        <First_Name-Personal_Information>Kyle</First_Name-Personal_Information>
+        <Middle_Name-Personal_Information/>
+        <Last_Name-Personal_Information>Wood</Last_Name-Personal_Information>
+        <Active>No</Active>
+        <Gender>Male</Gender>
+        <Date_Of_Birth-Biographical_Information>19800101</Date_Of_Birth-Biographical_Information>
+        <Business_Phone_Number/>
+        <Job_id>30000319</Job_id>
+        <Employment_Type>Full Time Hourly</Employment_Type>
+        <Job_Title>OC Magazine Keeper</Job_Title>
+        <Business_Unit>North America</Business_Unit>
+        <Division>Customer - US</Division>
+        <Department>Customer - US</Department>
+        <Working_Perimeter_id>377</Working_Perimeter_id>
+        <Working_Perimeter_Description>Salcha MFG</Working_Perimeter_Description>
+        <Location_ID>9999</Location_ID>
+        <Location_Name>Not Applicable</Location_Name>
+        <Work_Country>US</Work_Country>
+        <Supervisor_Name>Jim t Dickey</Supervisor_Name>
+        <Supervisor_ID>33115</Supervisor_ID>
+        <Supervisor_Title>Area Business Manager</Supervisor_Title>
+        <DoesEmployeehaveDirectReports>No</DoesEmployeehaveDirectReports>
+        <Standard_Hours>40</Standard_Hours>
+        <Hire_Date>20180101</Hire_Date>
+        <Leaving_Date>20180128</Leaving_Date>
+        <Contract_End_Date/>
+        <Job_Classification>OC Magazine Keeper</Job_Classification>
+        <Employee_Type>Employee</Employee_Type>
+    </row>
+    <row>
+        <Employee_id>44</Employee_id>
+        <User_Id>A44</User_Id>
+        <Email_account>A46241@ORICA.COM</Email_account>
+        <First_Name-Personal_Information>Kyle</First_Name-Personal_Information>
+        <Middle_Name-Personal_Information/>
+        <Last_Name-Personal_Information>Wood</Last_Name-Personal_Information>
+        <Active>Yes</Active>
+        <Gender>Male</Gender>
+        <Date_Of_Birth-Biographical_Information>19800101</Date_Of_Birth-Biographical_Information>
+        <Business_Phone_Number/>
+        <Job_id>30000319</Job_id>
+        <Employment_Type>Full Time Hourly</Employment_Type>
+        <Job_Title>OC Magazine Keeper</Job_Title>
+        <Business_Unit>North America</Business_Unit>
+        <Division>Customer - US</Division>
+        <Department>Customer - US</Department>
+        <Working_Perimeter_id>377</Working_Perimeter_id>
+        <Working_Perimeter_Description>Salcha MFG</Working_Perimeter_Description>
+        <Location_ID>9999</Location_ID>
+        <Location_Name>Not Applicable</Location_Name>
+        <Work_Country>US</Work_Country>
+        <Supervisor_Name>Jim t Dickey</Supervisor_Name>
+        <Supervisor_ID>33115</Supervisor_ID>
+        <Supervisor_Title>Area Business Manager</Supervisor_Title>
+        <DoesEmployeehaveDirectReports>No</DoesEmployeehaveDirectReports>
+        <Standard_Hours>40</Standard_Hours>
+        <Hire_Date>20180101</Hire_Date>
+        <Leaving_Date>20180128</Leaving_Date>
+        <Contract_End_Date/>
+        <Job_Classification>OC Magazine Keeper</Job_Classification>
+        <Employee_Type>Employee</Employee_Type>
+    </row>
+</root>	
