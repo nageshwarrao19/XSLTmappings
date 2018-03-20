@@ -1,0 +1,180 @@
+﻿
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xml:base="http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/">
+  <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4C(p_order='0000000444',p_customer='')/Set</id>
+  <title type="text">ZC_SalesOrderC4CSet</title>
+  <updated>2018-03-19T05:11:05Z</updated>
+  <author>
+    <name/>
+  </author>
+  <link href="ZC_SalesOrderC4C(p_order='0000000444',p_customer='')/Set" rel="self" title="ZC_SalesOrderC4CSet"/>
+  <entry>
+    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000010')</id>
+    <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000010')</title>
+    <updated>2018-03-19T05:11:05Z</updated>
+    <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000010')" rel="self" title="ZC_SalesOrderC4CType"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000010')/Parameters" rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parameters" type="application/atom+xml;type=entry" title="Parameters"/>
+    <content type="application/xml">
+      <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+        <d:p_order>444</d:p_order>
+        <d:p_customer>
+        </d:p_customer>
+        <d:Sales_Order_No>444</d:Sales_Order_No>
+        <d:Item_Number>000010</d:Item_Number>
+        <d:Customer_PurchaseOrder>Test</d:Customer_PurchaseOrder>
+        <d:Customer>31</d:Customer>
+        <d:Order_Type>OR</d:Order_Type>
+        <d:Created_By>AKUMAR22</d:Created_By>
+        <d:Sales_Organization>1031</d:Sales_Organization>
+        <d:Distribution_Channel>10</d:Distribution_Channel>
+        <d:Division>10</d:Division>
+        <d:Material_Number>1000027</d:Material_Number>
+        <d:Item_Text>ANFO CUSTOMER SPECIAL 1</d:Item_Text>
+        <d:Order_Quantity>10.0</d:Order_Quantity>
+        <d:Order_Unit>KG</d:Order_Unit>
+        <d:Net_Value>1282.5</d:Net_Value>
+        <d:Currency>AUD</d:Currency>
+        <d:Overall_Status>A</d:Overall_Status>
+        <d:Delivery_Status>A</d:Delivery_Status>
+        <d:Pricing_Date>2018-02-22T00:00:00</d:Pricing_Date>
+        <d:Billing_Date>2018-02-22T00:00:00</d:Billing_Date>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</id>
+    <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</title>
+    <updated>2018-03-19T05:11:05Z</updated>
+    <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')" rel="self" title="ZC_SalesOrderC4CType"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')/Parameters" rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parameters" type="application/atom+xml;type=entry" title="Parameters"/>
+    <content type="application/xml">
+      <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+        <d:p_order>444</d:p_order>
+        <d:p_customer>
+        </d:p_customer>
+        <d:Sales_Order_No>444</d:Sales_Order_No>
+        <d:Item_Number>000020</d:Item_Number>
+        <d:Customer_PurchaseOrder>Test</d:Customer_PurchaseOrder>
+        <d:Customer>31</d:Customer>
+        <d:Order_Type>OR</d:Order_Type>
+        <d:Created_By>AKUMAR22</d:Created_By>
+        <d:Sales_Organization>1031</d:Sales_Organization>
+        <d:Distribution_Channel>10</d:Distribution_Channel>
+        <d:Division>10</d:Division>
+        <d:Material_Number>1000028</d:Material_Number>
+        <d:Item_Text>AMMONIUM NITRATE BULK  (*NITROPRIL)</d:Item_Text>
+        <d:Order_Quantity>0.006</d:Order_Quantity>
+        <d:Order_Unit>TO</d:Order_Unit>
+        <d:Net_Value>0.0</d:Net_Value>
+        <d:Currency>AUD</d:Currency>
+        <d:Overall_Status>A</d:Overall_Status>
+        <d:Delivery_Status>A</d:Delivery_Status>
+        <d:Pricing_Date>2018-02-22T00:00:00</d:Pricing_Date>
+        <d:Billing_Date>2018-02-22T00:00:00</d:Billing_Date>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</id>
+    <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</title>
+    <updated>2018-03-19T05:11:05Z</updated>
+    <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')" rel="self" title="ZC_SalesOrderC4CType"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')/Parameters" rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parameters" type="application/atom+xml;type=entry" title="Parameters"/>
+    <content type="application/xml">
+      <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+        <d:p_order>444</d:p_order>
+        <d:p_customer>
+        </d:p_customer>
+        <d:Sales_Order_No>444</d:Sales_Order_No>
+        <d:Item_Number>000030</d:Item_Number>
+        <d:Customer_PurchaseOrder>Test</d:Customer_PurchaseOrder>
+        <d:Customer>31</d:Customer>
+        <d:Order_Type>OR</d:Order_Type>
+        <d:Created_By>AKUMAR22</d:Created_By>
+        <d:Sales_Organization>1031</d:Sales_Organization>
+        <d:Distribution_Channel>10</d:Distribution_Channel>
+        <d:Division>10</d:Division>
+        <d:Material_Number>1000061</d:Material_Number>
+        <d:Item_Text>ANE</d:Item_Text>
+        <d:Order_Quantity>0.004</d:Order_Quantity>
+        <d:Order_Unit>TO</d:Order_Unit>
+        <d:Net_Value>0.0</d:Net_Value>
+        <d:Currency>AUD</d:Currency>
+        <d:Overall_Status>A</d:Overall_Status>
+        <d:Delivery_Status>A</d:Delivery_Status>
+        <d:Pricing_Date>2018-02-22T00:00:00</d:Pricing_Date>
+        <d:Billing_Date>2018-02-22T00:00:00</d:Billing_Date>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</id>
+    <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</title>
+    <updated>2018-03-19T05:11:05Z</updated>
+    <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')" rel="self" title="ZC_SalesOrderC4CType"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')/Parameters" rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parameters" type="application/atom+xml;type=entry" title="Parameters"/>
+    <content type="application/xml">
+      <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+        <d:p_order>333</d:p_order>
+        <d:p_customer>
+        </d:p_customer>
+        <d:Sales_Order_No>333</d:Sales_Order_No>
+        <d:Item_Number>000010</d:Item_Number>
+        <d:Customer_PurchaseOrder>Test</d:Customer_PurchaseOrder>
+        <d:Customer>31</d:Customer>
+        <d:Order_Type>OR</d:Order_Type>
+        <d:Created_By>AKUMAR22</d:Created_By>
+        <d:Sales_Organization>1031</d:Sales_Organization>
+        <d:Distribution_Channel>10</d:Distribution_Channel>
+        <d:Division>10</d:Division>
+        <d:Material_Number>1000028</d:Material_Number>
+        <d:Item_Text>AMMONIUM NITRATE BULK  (*NITROPRIL)</d:Item_Text>
+        <d:Order_Quantity>0.006</d:Order_Quantity>
+        <d:Order_Unit>TO</d:Order_Unit>
+        <d:Net_Value>0.0</d:Net_Value>
+        <d:Currency>AUD</d:Currency>
+        <d:Overall_Status>A</d:Overall_Status>
+        <d:Delivery_Status>A</d:Delivery_Status>
+        <d:Pricing_Date>2018-02-22T00:00:00</d:Pricing_Date>
+        <d:Billing_Date>2018-02-22T00:00:00</d:Billing_Date>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</id>
+    <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</title>
+    <updated>2018-03-19T05:11:05Z</updated>
+    <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')" rel="self" title="ZC_SalesOrderC4CType"/>
+    <link href="ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')/Parameters" rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parameters" type="application/atom+xml;type=entry" title="Parameters"/>
+    <content type="application/xml">
+      <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+        <d:p_order>333</d:p_order>
+        <d:p_customer>
+        </d:p_customer>
+        <d:Sales_Order_No>333</d:Sales_Order_No>
+        <d:Item_Number>0000020</d:Item_Number>
+        <d:Customer_PurchaseOrder>Test</d:Customer_PurchaseOrder>
+        <d:Customer>31</d:Customer>
+        <d:Order_Type>OR</d:Order_Type>
+        <d:Created_By>AKUMAR22</d:Created_By>
+        <d:Sales_Organization>1031</d:Sales_Organization>
+        <d:Distribution_Channel>10</d:Distribution_Channel>
+        <d:Division>10</d:Division>
+        <d:Material_Number>1000061</d:Material_Number>
+        <d:Item_Text>ANE</d:Item_Text>
+        <d:Order_Quantity>0.004</d:Order_Quantity>
+        <d:Order_Unit>TO</d:Order_Unit>
+        <d:Net_Value>0.0</d:Net_Value>
+        <d:Currency>AUD</d:Currency>
+        <d:Overall_Status>A</d:Overall_Status>
+        <d:Delivery_Status>A</d:Delivery_Status>
+        <d:Pricing_Date>2018-02-22T00:00:00</d:Pricing_Date>
+        <d:Billing_Date>2018-02-22T00:00:00</d:Billing_Date>
+      </m:properties>
+    </content>
+  </entry>
+</feed>
