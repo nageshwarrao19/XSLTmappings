@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" exclude-result-prefixes="xsl ValueMap java" xmlns:java="http://xml.apache.org/xslt/java" xmlns:ValueMap="com.sap.aii.mapping.value.api.XIVMService" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:strip-space elements="*"/>
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/>
@@ -31,6 +31,7 @@
                 <!-- Status to be 'Active' or 'InActive' based on DATBI greater/lower than current date --> 
                 <xsl:call-template name="StatusDerivation">
                     <xsl:with-param name="endDate" select="DATBI"/>
+                    <xsl:with-param name="startDate" select="DATAB"/>
                     <xsl:with-param name="currentDate" select="java:format(java:java.text.SimpleDateFormat.new(&apos;yyyyMMdd&apos;), java:java.util.Date.new())"/>/>
                 </xsl:call-template>
             </status>
@@ -135,16 +136,22 @@
     <!-- Template for Status Derivation based on End Date --> 
     <xsl:template name="StatusDerivation">
         <xsl:param name="endDate"/>
+        <xsl:param name="startDate"/>
         <xsl:param name="currentDate"/>
         <xsl:choose>
-            <xsl:when test="$endDate &gt; $currentDate">
+            <xsl:when test="($startDate &gt; $currentDate) and ($endDate &gt; $currentDate)">
+                <xsl:value-of select="'InActive'"/>
+            </xsl:when>
+            <xsl:when test="(($startDate &lt; $currentDate) or ($startDate = $currentDate))and ($endDate &gt; $currentDate)">
                 <xsl:value-of select="'Active'"/>
             </xsl:when>
             <xsl:when test="$endDate &lt; $currentDate">
                 <xsl:value-of select="'InActive'"/>
             </xsl:when>
+            <xsl:when test="$endDate = $currentDate">
+                <xsl:value-of select="'InActive'"/>
+            </xsl:when>
             <xsl:otherwise>
-                <xsl:value-of select="'Active'"/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
