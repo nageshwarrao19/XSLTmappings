@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exch:ExchangeRatesIntermediateMessage xmlns:exch="http://orica.com/exchange_rates">
+    <exch:ExchangeRates>
+        <exch:ExchangeRate>
+            <exch:FromCurrency>USD</exch:FromCurrency>
+            <exch:ToCurrency>AED</exch:ToCurrency>
+            <exch:UpdateDate>2018-07-09</exch:UpdateDate>
+            <exch:Rate>3.673000</exch:Rate>
+        </exch:ExchangeRate>
+        <exch:ExchangeRate>
+            <exch:FromCurrency>USD</exch:FromCurrency>
+            <exch:ToCurrency>ARS</exch:ToCurrency>
+            <exch:UpdateDate>2018-07-06</exch:UpdateDate>
+            <exch:Rate>27.930700</exch:Rate>
+        </exch:ExchangeRate> 
+        <exch:ExchangeRate>
+            <exch:FromCurrency>USD</exch:FromCurrency>
+            <exch:ToCurrency>AUD</exch:ToCurrency>
+            <exch:UpdateDate>2018-07-06</exch:UpdateDate>
+            <exch:Rate>1.330000</exch:Rate>
+        </exch:ExchangeRate> 
+        <exch:ExchangeRate>
+            <exch:FromCurrency>USD</exch:FromCurrency>
+            <exch:ToCurrency>INR</exch:ToCurrency>
+            <exch:UpdateDate>2018-07-16</exch:UpdateDate>
+            <exch:Rate>68.330000</exch:Rate>
+        </exch:ExchangeRate> 
+        </exch:ExchangeRates>
+</exch:ExchangeRatesIntermediateMessage>
