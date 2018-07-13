@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:exch="http://orica.com/exchange_rates"
+    xmlns:exch="http://abc.com/exchange_rates"
     exclude-result-prefixes="xs exch"
     version="2.0">
     
