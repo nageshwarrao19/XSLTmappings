@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<exch:ExchangeRatesIntermediateMessage xmlns:exch="http://orica.com/exchange_rates">
+<exch:ExchangeRatesIntermediateMessage xmlns:exch="http://abc.com/exchange_rates">
     <exch:ExchangeRates>
         <exch:ExchangeRate>
             <exch:FromCurrency>USD</exch:FromCurrency>
