@@ -2,6 +2,7 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="xml" indent="yes"/>
 
+    <!-- Passes outout of one template to another template -->
     <!-- XSLT to Extract only Active Employees where Duplicate Value Exists -->
 
     <xsl:variable name="Grouping">
