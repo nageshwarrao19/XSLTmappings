@@ -4,7 +4,7 @@
     xmlns:ValueMap="com.sap.aii.mapping.value.api.XIVMService">
     <xsl:strip-space elements="*"/>
     <xsl:output method="xml" indent="yes"/>
-    <!-- XSLT Mapping to ignore all the unwanted Fields from Source file. Source file contains more thn 400 fields Revathi
+    <!-- XSLT Mapping to ignore all the unwanted Fields from Source file. Source file contains more thn 400 fields
     Also Filters are applied based on Payment Conditions    
     -->
 
@@ -50,8 +50,8 @@
         </xsl:variable>
         
         <!-- Ignoring all the line items where Report ID is null i.e Cash Advance Transaction type = '1'
-			or the Payment Type is among ‘VATVAT or CAGST or PSTSK or PSTMB or PSTBC or HSTNB or CAQST or HSTNS or HSTNL or HSTON or HSTPE or RTCON or RTCPE’
-			or the Payment is via ‘COMPANY CREDIT CARD or COMPANY PCARD’	
+			or the Payment Type is among â€˜VATVAT or CAGST or PSTSK or PSTMB or PSTBC or HSTNB or CAQST or HSTNS or HSTNL or HSTON or HSTPE or RTCON or RTCPEâ€™
+			or the Payment is via â€˜COMPANY CREDIT CARD or COMPANY PCARDâ€™	
 			or the Org Unit provided by Concur is to be excluded ( i.e to be included)  - This is maintained by Value Mapping Table in ID
 		-->
 
