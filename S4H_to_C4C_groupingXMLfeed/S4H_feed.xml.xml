@@ -1,6 +1,6 @@
 ﻿
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xml:base="http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/">
-  <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4C(p_order='0000000444',p_customer='')/Set</id>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xml:base="http://sapem-sp.es.google.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/">
+  <id>http://sapem-sp.es.google.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4C(p_order='0000000444',p_customer='')/Set</id>
   <title type="text">ZC_SalesOrderC4CSet</title>
   <updated>2018-03-19T05:11:05Z</updated>
   <author>
@@ -8,7 +8,7 @@
   </author>
   <link href="ZC_SalesOrderC4C(p_order='0000000444',p_customer='')/Set" rel="self" title="ZC_SalesOrderC4CSet"/>
   <entry>
-    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000010')</id>
+    <id>http://sapem-sp.es.google.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000010')</id>
     <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000010')</title>
     <updated>2018-03-19T05:11:05Z</updated>
     <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
@@ -42,7 +42,7 @@
     </content>
   </entry>
   <entry>
-    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</id>
+    <id>http://sapem-sp.es.google.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</id>
     <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</title>
     <updated>2018-03-19T05:11:05Z</updated>
     <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
@@ -76,7 +76,7 @@
     </content>
   </entry>
   <entry>
-    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</id>
+    <id>http://sapem-sp.es.google.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</id>
     <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</title>
     <updated>2018-03-19T05:11:05Z</updated>
     <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
@@ -110,7 +110,7 @@
     </content>
   </entry>
   <entry>
-    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</id>
+    <id>http://sapem-sp.es.google.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</id>
     <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000020')</title>
     <updated>2018-03-19T05:11:05Z</updated>
     <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
@@ -144,7 +144,7 @@
     </content>
   </entry>
   <entry>
-    <id>http://sapem-sp.es.orica.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</id>
+    <id>http://sapem-sp.es.google.net/sap/opu/odata/sap/ZC_SALESORDERC4C_CDS/ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</id>
     <title type="text">ZC_SalesOrderC4CSet(p_order='444',p_customer='',Sales_Order_No='444',Item_Number='000030')</title>
     <updated>2018-03-19T05:11:05Z</updated>
     <category term="ZC_SALESORDERC4C_CDS.ZC_SalesOrderC4CType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
